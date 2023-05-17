@@ -1,4 +1,7 @@
-const chave = "36ce3c882b825bbbfb834ff5b0c2c2f6";
+ const chave = process.env.CHAVE_API;
+
+// Resto do seu código
+;
 
 function botao() {
   var cidade = document.querySelector(".valor-cidade").value;
