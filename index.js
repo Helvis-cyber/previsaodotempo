@@ -1,4 +1,4 @@
- const chave = process.env.CHAVE_API;
+  const chave = "36ce3c882b825bbbfb834ff5b0c2c2f6";
 
 // Resto do seu código
 ;
